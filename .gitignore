@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Context & Plan specifications
+CONTEXT.md
+context.md
+PLAN.md
+plan.md
+mvp-implementation-plan.md
+
